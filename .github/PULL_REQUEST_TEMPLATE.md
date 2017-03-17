@@ -11,9 +11,9 @@
 
 ## PR Checklist ##
 
--[] have run `./build.sh` and fix any errors or failed unit tests
--[] code follows the style guidelines described in [Coding Style](doc/coding-style.md)
--[] changes don't break API compatibility
--[] code has tests if applicable
--[] code that is not your own has attribution
--[] code is adequately commented
+- [ ] have run `./build.sh` and fix any errors or failed unit tests
+- [ ] code follows the style guidelines described in [Coding Style](doc/coding-style.md)
+- [ ] changes don't break API compatibility
+- [ ] code has tests if applicable
+- [ ] code that is not your own has attribution
+- [ ] code is adequately commented
